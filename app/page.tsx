@@ -15,7 +15,7 @@ export default function Home() {
 
         <button className=" bg-sky-500 hover:bg-sky-700 w-72 text-center p-2 rounded-lg text-white">Login</button>
 
-        <p>Don't have an account?</p>
+        <p>Don&apos;t have an account?</p>
 
         <Link href="/Signup" className=" bg-sky-500 hover:bg-sky-700 w-72 text-center p-2 rounded-lg text-white"> Sign In</Link>
 
